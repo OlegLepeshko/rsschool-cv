@@ -49,6 +49,9 @@ Education
 -------
 I study programming on my own using documentation and youtube channels.
 
+English
+-------
+A (I have some speaking practice, but not with native speakers)
 
  
     
