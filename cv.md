@@ -1,5 +1,6 @@
 rsschool-cv
 ==========
+![](/images/photo_2021-08-01_19-31-48.jpg)
 
 Oleg Lepeshko
 ----------
