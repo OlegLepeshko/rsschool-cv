@@ -159,18 +159,17 @@ font-weight: 500;
 {
   margin-bottom: 0;
 }
+.box
+{
+  text-transform: uppercase;
+  color: #848c84;
+}
 .title-2 {
   margin-top: 50px ;
   color: #003147;
   letter-spacing: 1px;
  
 }
-.box
-{
-  text-transform: uppercase;
-  color: #848c84;
-}
-
 .about_interest ul li
 {
   list-style: none;
